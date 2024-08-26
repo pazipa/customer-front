@@ -5,7 +5,7 @@ name: Build features
 
 on:
   pull_request:
-    branches: [ "develop" ]
+    branches: [ "main" ]
 
 jobs:
   build:
